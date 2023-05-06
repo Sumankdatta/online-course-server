@@ -1,0 +1,38 @@
+[
+    {
+      "id": "01",
+      "img": "https://i.postimg.cc/59GGBwfR/game.jpg",
+      "name": "Web Development",
+      "price":"2500"
+    },
+    {
+      "id": "02",
+      "img": "https://i.postimg.cc/GtfsyTbY/natural.png",
+      "name": "Data Science",
+      "price":"2500"
+    },
+    {
+      "id": "03",
+      "name": "Cybersecurity",
+      "img": "https://i.postimg.cc/mrCFJrBN/cyber-security.jpg",
+      "price":"2500"
+    },
+    {
+      "id": "04",
+      "name": "Machine Learning",
+      "img": "https://i.postimg.cc/2j0F4TGQ/machin-learning.jpg",
+      "price":"2500"
+    },
+    {
+      "id": "05",
+      "name": "Game Development",
+      "img": "https://i.postimg.cc/59GGBwfR/game.jpg",
+      "price":"2500"
+    },
+    {
+      "id": "06",
+      "name": "Mobile Development",
+      "img": "https://i.postimg.cc/QxbHHkLR/build-ios-apps-with-swiftui.png",
+      "price":"2500"
+    }  
+  ]

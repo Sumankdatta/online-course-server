@@ -1,0 +1,75 @@
+[
+  {
+    "_id": "635a15abd10d7a8ed706945d",
+    "title": "Full-Stack Engineer",
+    "img": "https://i.postimg.cc/59GGBwfR/game.jpg",
+    "course_id": "01",
+    "distribution": "15/200",
+    "studyTime": 90,
+    "price": 1490,
+    "discount": "30%",
+    "discount_status": false,
+    "details": "As a jack of all trades (and master of quite a few), a full-stack engineer can get a project done from start to finish. In this Career Path, youll begin with the front-end, move on to the back-end, then learn to connect the two. By the time youre done, you will have the well-rounded skills needed to enter this in-demand job market."
+  },
+  {
+    "_id": "635a15ab433662b248f4d132",
+    "title": "Data Scientist: Machine Learning Specialist",
+    "img": "https://i.postimg.cc/GtfsyTbY/natural.png",
+    "course_id": "02",
+    "distribution": "15/200",
+    "studyTime": 90,
+    "price": 1490,
+    "discount": "30%",
+    "discount_status": true,
+    "details": "Companies are looking for data-driven decision makers, and this Career Path will teach you the skills you need to become just that. you will learn data science fundamentals, including analyzing data, communicating your findings, drawing predictions with machine learning, and even building neural networks. Along the way, you will build portfolio-worthy projects that will help you get job-ready."
+  },
+  {
+    "_id": "635a15abf2dc897fee8be5b0",
+    "title": "Securing Express Applications",
+    "img": "https://i.postimg.cc/mrCFJrBN/cyber-security.jpg",
+    "course_id": "03",
+    "distribution": "15/200",
+    "studyTime": 90,
+    "price": 1490,
+    "discount": "30%",
+    "discount_status": false,
+    "details": "From malicious threat actors to curious teenagers, hacking attempts and cyber attacks are coming from every angle. Using the OWASP Top Ten as a guide, learn to protect your users, and yourself, from threats to your Express and Node.js applications. Strong authentication and authorization practices, properly protected data, and secure code will protect your web app from these constant threats."
+  },
+  {
+    "_id": "635a15ab9ba840bca8b612b7",
+    "title": "Machine Learning/AI Engineer Career Path",
+    "img": "https://i.postimg.cc/2j0F4TGQ/machin-learning.jpg",
+    "course_id": "04",
+    "distribution": "15/200",
+    "studyTime": 90,
+    "price": 1490,
+    "discount": "30%",
+    "discount_status": true,
+    "details": "Ever wonder how Netflix recommends what you should watch? Algorithmic decision-making is everywhere. From detecting fraudulent transactions to recommending movies to figuring out the nearest car for a ride, so many of the applications we use every day rely on this. What powers these systems? Machine Learning Engineering!"
+  },
+  {
+    "_id": "635a15ab08b909c781bf7683",
+    "title": "Create Video Games with Phaser.js",
+    "img": "https://i.postimg.cc/59GGBwfR/game.jpg",
+    "course_id": "05",
+    "distribution": "15/200",
+    "studyTime": 90,
+    "price": 1490,
+    "discount": "30%",
+    "discount_status": false,
+    "details": "It’s easy to get lost in the flow of a good game. But behind every power-up and boss battle is simple code that brings the game to life. In this Skill Path, you will learn how to build your own web-based game from the ground up."
+  },
+  {
+    "_id": "635a15ab9e034472b14f8903",
+    "title": "Build iOS Apps with SwiftUI",
+    "img": "https://i.postimg.cc/QxbHHkLR/build-ios-apps-with-swiftui.png",
+    "course_id": "06",
+    "distribution": "15/200",
+    "studyTime": 90,
+    "price": 1490,
+    "discount": "30%",
+    "discount_status": true,
+    "details": "You know all of those app ideas you’ve been wanting to create? Swift and SwiftUI can help you bring them to life for iOS. Learn how to build your very own iPhone app from start to finish, then publish your creations to the App Store for the world to see."
+  }
+  
+]
